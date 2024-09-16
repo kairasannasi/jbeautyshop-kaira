@@ -1,0 +1,15 @@
+.ipay88_opt_container {
+	display: inline-block;
+	vertical-align: top;
+	width: 150px;
+	min-height: 150px;
+	margin: 0 10px;
+	border: 1px solid #CCCCCC;
+	padding: 10px 25px;
+	border-radius: 5px;
+}
+
+.ipay88_title_opt {
+	border-bottom: 1px solid #CCCCCC;
+	text-align: center;
+}
